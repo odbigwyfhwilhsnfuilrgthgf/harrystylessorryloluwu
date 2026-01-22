@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stuff</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- HEADER -->
+    <div class="header">
+        <h1>Harry Styles</h1>
+        <p class="subtitle">fansite for Harry Styles <3</p>
+    </div>
+
+    <!-- NAVIGATION -->
+    <div class="nav">
+        <a href="index.html">Home</a>  <!-- We use a <a> tag when we link -->
+        <a href="awww.html">About</a> <!-- to another page but a button tag-->
+        <a href="#">Gallery</a> <!-- when we do something on the page -->
+        <a href="#">Contact</a>
+    </div>
+
+    <!-- MAIN CONTENT AREA -->
+    <div class="container">
+
+        <!-- LEFT CONTENT -->
+        <div class="content">
+            <h2>Harry 💗</h2>
+			<p>Personal Info:</p>
+
+            <div class="example-box">
+                <h3>Birth Info:</h3>
+                <p>Harry Styles was born on February 1st, 1994 at exactly 12:06 a.m.
+				At his time of birth, he weighted 9.31 pounds</p>
+            </div>
+			<img>
+                <img src="Harry....gif" style>
+            <img>
+            <div class="example-box">
+                <h3></h3>
+				
+            </div>
+        </div>
+
+        <!-- RIGHT SIDEBAR -->
+        <div class="sidebar">
+            <h3>Sidebar</h3>
+            <p>You can put extra information here.</p>
+            <p>Ideas:</p>
+            <img>
+                <img src="Harryy.webp" style>
+            <img>
+        </div>
+    </div>
+
+    <!-- FOOTER -->
+    <div class="footer">
+        <p> 1994-2015 </p>
+    </div>
+
+</body>
+</html>
